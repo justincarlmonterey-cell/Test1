@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>test</title>
-    <link href="https://justincarlmonterey-cell.github.io/Test1/feed.xml" rel="self" />
-    <link href="https://justincarlmonterey-cell.github.io/Test1" />
+    <link href="https://jintest.blog/feed.xml" rel="self" />
+    <link href="https://jintest.blog" />
     <updated>2026-05-03T04:33:54+08:00</updated>
     <author>
         <name>test</name>
     </author>
-    <id>https://justincarlmonterey-cell.github.io/Test1</id>
+    <id>https://jintest.blog</id>
 
     <entry>
         <title>QOOQO</title>
         <author>
             <name>test</name>
         </author>
-        <link href="https://justincarlmonterey-cell.github.io/Test1/qooqo.html"/>
-        <id>https://justincarlmonterey-cell.github.io/Test1/qooqo.html</id>
+        <link href="https://jintest.blog/qooqo.html"/>
+        <id>https://jintest.blog/qooqo.html</id>
 
         <updated>2026-05-03T04:29:28+08:00</updated>
             <summary type="html">
@@ -41,8 +41,8 @@
         <author>
             <name>test</name>
         </author>
-        <link href="https://justincarlmonterey-cell.github.io/Test1/yes.html"/>
-        <id>https://justincarlmonterey-cell.github.io/Test1/yes.html</id>
+        <link href="https://jintest.blog/yes.html"/>
+        <id>https://jintest.blog/yes.html</id>
 
         <updated>2026-05-03T04:23:09+08:00</updated>
             <summary type="html">
@@ -58,7 +58,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg" height="522" width="526" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xs.jpg 640w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-sm.jpg 768w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-md.jpg 1024w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-lg.jpg 1366w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xl.jpg 1600w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-2xl.jpg 1920w">
+      <img loading="lazy" src="https://jintest.blog/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg" height="522" width="526" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xs.jpg 640w ,https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-sm.jpg 768w ,https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-md.jpg 1024w ,https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-lg.jpg 1366w ,https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xl.jpg 1600w ,https://jintest.blog/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-2xl.jpg 1920w">
       
     </figure>
             ]]>
@@ -69,8 +69,8 @@
         <author>
             <name>test</name>
         </author>
-        <link href="https://justincarlmonterey-cell.github.io/Test1/tesm2.html"/>
-        <id>https://justincarlmonterey-cell.github.io/Test1/tesm2.html</id>
+        <link href="https://jintest.blog/tesm2.html"/>
+        <id>https://jintest.blog/tesm2.html</id>
 
         <updated>2026-05-03T04:22:29+08:00</updated>
             <summary></summary>
@@ -81,8 +81,8 @@
         <author>
             <name>test</name>
         </author>
-        <link href="https://justincarlmonterey-cell.github.io/Test1/test.html"/>
-        <id>https://justincarlmonterey-cell.github.io/Test1/test.html</id>
+        <link href="https://jintest.blog/test.html"/>
+        <id>https://jintest.blog/test.html</id>
 
         <updated>2026-05-03T04:22:20+08:00</updated>
             <summary type="html">
