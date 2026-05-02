@@ -58,7 +58,7 @@
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg" height="522" width="526" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xs.jpg 640w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-sm.jpg 768w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-md.jpg 1024w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-lg.jpg 1366w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xl.jpg 1600w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-2xl.jpg 1920w">
+      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg" height="522" width="526" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-xs.jpg 300w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-sm.jpg 480w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-md.jpg 768w ,https://justincarlmonterey-cell.github.io/Test1/media/posts/3/responsive/61f6ecac31997360bddee535abecf4a1-lg.jpg 1024w">
       
     </figure>
             ]]>
