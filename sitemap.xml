@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/justincarlmonterey-cell/Test1/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://justincarlmonterey-cel.github.io/Test1/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/justincarlmonterey-cell/Test1/</loc>
+<loc>https://justincarlmonterey-cel.github.io/Test1/</loc>
 </url>
 <url>
-<loc>https://github.com/justincarlmonterey-cell/Test1/qooqo.html</loc>
+<loc>https://justincarlmonterey-cel.github.io/Test1/qooqo.html</loc>
 <lastmod>2026-05-03T04:29:28+08:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/justincarlmonterey-cell/Test1/tesm2.html</loc>
+<loc>https://justincarlmonterey-cel.github.io/Test1/tesm2.html</loc>
 <lastmod>2026-05-03T04:22:29+08:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/justincarlmonterey-cell/Test1/test.html</loc>
+<loc>https://justincarlmonterey-cel.github.io/Test1/test.html</loc>
 <lastmod>2026-05-03T04:33:30+08:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/justincarlmonterey-cell/Test1/yes.html</loc>
+<loc>https://justincarlmonterey-cel.github.io/Test1/yes.html</loc>
 <lastmod>2026-05-03T04:33:54+08:00</lastmod>
 <image:image>
-<image:loc>https://github.com/justincarlmonterey-cell/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg</image:loc>
+<image:loc>https://justincarlmonterey-cel.github.io/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
