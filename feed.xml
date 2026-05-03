@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test</title>
+    <title>Portfolio</title>
     <link href="https://justincarlmonterey-cell.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://justincarlmonterey-cell.github.io/Portfolio" />
-    <updated>2026-05-03T09:21:02+08:00</updated>
+    <updated>2026-05-03T10:12:05+08:00</updated>
     <author>
         <name>test</name>
     </author>
     <id>https://justincarlmonterey-cell.github.io/Portfolio</id>
 
+    <entry>
+        <title>f</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://justincarlmonterey-cell.github.io/Portfolio/f/"/>
+        <id>https://justincarlmonterey-cell.github.io/Portfolio/f/</id>
+        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/12/739ed47443f9d995d32fb04087a0cf43.webp" medium="image" />
+            <category term="ART"/>
+
+        <updated>2026-05-03T10:07:05+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/12/739ed47443f9d995d32fb04087a0cf43.webp" alt="" />
+                    dfsd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/12/739ed47443f9d995d32fb04087a0cf43.webp" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    dfsd
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New Post</title>
         <author>
@@ -16,16 +47,36 @@
         </author>
         <link href="https://justincarlmonterey-cell.github.io/Portfolio/new-post/"/>
         <id>https://justincarlmonterey-cell.github.io/Portfolio/new-post/</id>
+        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/652a2ec2-9e5a-49cb-af64-43fc36601a4f-3.png" medium="image" />
+            <category term="ART"/>
 
         <updated>2026-05-03T09:21:02+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/652a2ec2-9e5a-49cb-af64-43fc36601a4f-3.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/TEST.png" height="4064" width="3048" alt=""  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-xs.png 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-sm.png 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-md.png 768w">
+      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/TEST.png" height="4064" width="3048" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-xs.png 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-sm.png 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-md.png 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-lg.png 1024w">
       
     </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
+      
+    </figure>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
