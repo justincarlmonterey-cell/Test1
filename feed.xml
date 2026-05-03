@@ -3,10 +3,30 @@
     <title>test</title>
     <link href="https://justincarlmonterey-cell.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://justincarlmonterey-cell.github.io/Portfolio" />
-    <updated>1970-01-01T07:30:00+07:30</updated>
+    <updated>2026-05-03T09:21:02+08:00</updated>
     <author>
         <name>test</name>
     </author>
     <id>https://justincarlmonterey-cell.github.io/Portfolio</id>
 
+    <entry>
+        <title>New Post</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://justincarlmonterey-cell.github.io/Portfolio/new-post/"/>
+        <id>https://justincarlmonterey-cell.github.io/Portfolio/new-post/</id>
+
+        <updated>2026-05-03T09:21:02+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/TEST.png" height="4064" width="3048" alt=""  sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-xs.png 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-sm.png 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/8/responsive/TEST-md.png 768w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
