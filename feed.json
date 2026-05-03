@@ -11,153 +11,152 @@
     },
     "items": [
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/pizza-hut-poster/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/pizza-hut-poster/",
-            "title": "PIZZA HUT POSTER",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/26/EPD-PETA-real.png",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/flashlight-prop/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/flashlight-prop/",
+            "title": "FLASHLIGHT PROP",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/Monterey_Pesrspective.png\" height=\"768\" width=\"1366\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/responsive/Monterey_Pesrspective-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/responsive/Monterey_Pesrspective-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/responsive/Monterey_Pesrspective-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/responsive/Monterey_Pesrspective-lg.webp 1024w\">\n      \n    </figure>",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/40/Monterey_Picture.jpg",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "POSTER DESIGN"
+                   "3D PROJECTS"
             ],
-            "date_published": "2026-05-03T12:43:55+08:00",
-            "date_modified": "2026-05-03T13:04:05+08:00"
+            "date_published": "2026-05-05T05:47:00+08:00",
+            "date_modified": "2026-05-05T05:47:00+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/gus-fanart-from-sweet-tooth/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/gus-fanart-from-sweet-tooth/",
-            "title": "GUS FANART (From Sweet Tooth)",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody-2/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody-2/",
+            "title": "RIZAL TRAVELS FLAG (Persona 5 Parody)",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/25/Guuuus.png",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/46/FINAL-FINAL-FINAL.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "ART"
+                   "GRAPHIC DESIGN"
             ],
-            "date_published": "2026-05-03T12:43:26+08:00",
-            "date_modified": "2026-05-03T13:04:47+08:00"
+            "date_published": "2026-05-03T15:14:13+08:00",
+            "date_modified": "2026-05-03T15:14:13+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/bmma-exhibit-arcade-poster-2025/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/bmma-exhibit-arcade-poster-2025/",
-            "title": "BMMA EXHIBIT ARCADE POSTER 2025",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/24/Arcade-poster.png",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/",
+            "title": "RIZAL TRAVELS FLAG (Persona 5 Parody)",
+            "summary": "[{\"id\":\"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8\",\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":\"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8\",\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "POSTER DESIGN"
             ],
-            "date_published": "2026-05-03T12:42:50+08:00",
-            "date_modified": "2026-05-03T12:42:50+08:00"
+            "date_published": "2026-05-03T15:14:06+08:00",
+            "date_modified": "2026-05-03T15:14:06+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/clancy-fanart/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/clancy-fanart/",
-            "title": "CLANCY FANART",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic-2/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic-2/",
+            "title": "DOLPHIN MOSAIC (Experimental)",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/23/tyler-jujip-3.png",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/44/Monterey_Lab3.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
+                   "DIGITAL ART"
             ],
-            "date_published": "2026-05-03T12:41:13+08:00",
-            "date_modified": "2026-05-03T12:41:13+08:00"
+            "date_published": "2026-05-03T15:11:54+08:00",
+            "date_modified": "2026-05-03T15:12:35+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/naga-sportsfest-shirt-concept-2026/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/naga-sportsfest-shirt-concept-2026/",
-            "title": "NAGA SPORTSFEST SHIRT CONCEPT 2026",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/knox-concept-drawing/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/knox-concept-drawing/",
+            "title": "KNOX CONCEPT DRAWING",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/22/Naga-Concept-With-text.png",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/43/concept.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "SHIRT DESIGN"
+                   "DIGITAL ART"
             ],
-            "date_published": "2026-05-03T12:40:38+08:00",
-            "date_modified": "2026-05-03T12:40:38+08:00"
+            "date_published": "2026-05-03T15:11:34+08:00",
+            "date_modified": "2026-05-03T15:11:34+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travel-flag-2025/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travel-flag-2025/",
-            "title": "RIZAL TRAVEL FLAG 2025",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/goob-self-portrait/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/goob-self-portrait/",
+            "title": "GOOB SELF PORTRAIT",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/21/FINAL-FINAL-FINAL.png",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/41/TEST.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "POSTER DESIGN"
+                   "DIGITAL ART"
             ],
-            "date_published": "2026-05-03T12:39:52+08:00",
-            "date_modified": "2026-05-03T12:39:52+08:00"
+            "date_published": "2026-05-03T15:01:00+08:00",
+            "date_modified": "2026-05-03T15:10:14+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/polsci-poster-2024/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/polsci-poster-2024/",
-            "title": "POLSCI POSTER 2024",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/jack-daniels-bottle/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/jack-daniels-bottle/",
+            "title": "JACK DANIELS BOTTLE",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/20/2-11.png",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/42/nomi-hay.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "POSTER DESIGN"
+                   "3D PROJECTS"
             ],
-            "date_published": "2026-05-03T12:39:25+08:00",
-            "date_modified": "2026-05-03T12:39:25+08:00"
+            "date_published": "2026-05-03T14:56:20+08:00",
+            "date_modified": "2026-05-03T14:56:20+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/knox-concept/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/knox-concept/",
-            "title": "KNOX CONCEPT",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/19/concept.png",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/punpun/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/punpun/",
+            "title": "PUNPUN",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/Monterey_Camera2.jpg\" height=\"540\" width=\"960\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera2-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera2-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera2-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera2-lg.webp 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/Monterey_Camera3.jpg\" height=\"540\" width=\"960\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera3-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera3-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera3-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/responsive/Monterey_Camera3-lg.webp 1024w\">\n      \n    </figure>",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/39/Monterey_Camera1.jpg",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "ART"
+                   "3D PROJECTS"
             ],
-            "date_published": "2026-05-03T12:36:19+08:00",
-            "date_modified": "2026-05-03T12:36:19+08:00"
+            "date_published": "2026-05-03T14:47:27+08:00",
+            "date_modified": "2026-05-03T14:47:27+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/blue-vikings-shirt-design-2025/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/blue-vikings-shirt-design-2025/",
-            "title": "Blue Vikings Shirt Design 2025",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic/",
+            "title": "DOLPHIN MOSAIC",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/18/Blue-Vikings.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "SHIRT DESIGN"
+                   "DIGITAL ART"
             ],
-            "date_published": "2026-05-03T12:29:21+08:00",
-            "date_modified": "2026-05-03T12:29:21+08:00"
+            "date_published": "2026-05-03T14:46:29+08:00",
+            "date_modified": "2026-05-03T14:46:29+08:00"
         },
         {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/brrrrrr-months/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/brrrrrr-months/",
-            "title": "BRRRRRR Months",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/2.png\" height=\"2880\" width=\"2304\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/responsive/2-xs.png 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/responsive/2-sm.png 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/responsive/2-md.png 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/responsive/2-lg.png 1024w\">\n      \n    </figure>",
-            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/17/1.png",
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/auto-painting-services-logo/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/auto-painting-services-logo/",
+            "title": "AUTO PAINTING SERVICES LOGO",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-VERS-1-logo.png\" height=\"4531\" width=\"10386\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-lg.webp 1024w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-VERS-1.png\" height=\"4531\" width=\"10386\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-lg.webp 1024w\">\n      \n    </figure>",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-LOGO-01.png",
             "author": {
                 "name": "Gusher"
             },
             "tags": [
-                   "POSTER DESIGN"
+                   "GRAPHIC DESIGN"
             ],
-            "date_published": "2026-05-03T12:28:43+08:00",
-            "date_modified": "2026-05-03T12:28:43+08:00"
+            "date_published": "2026-05-03T14:44:55+08:00",
+            "date_modified": "2026-05-03T14:45:08+08:00"
         }
     ]
 }
