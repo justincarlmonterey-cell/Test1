@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://justincarlmonterey-cell.github.io/Test1/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://justincarlmonterey-cell.github.io/Portfolio/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://justincarlmonterey-cell.github.io/Test1/</loc>
-</url>
-<url>
-<loc>https://justincarlmonterey-cell.github.io/Test1/test-2/</loc>
-<lastmod>2026-05-03T06:41:01+08:00</lastmod>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/6/262A2184.JPG</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://justincarlmonterey-cell.github.io/Test1/testing-number-one/</loc>
-<lastmod>2026-05-03T06:45:25+08:00</lastmod>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/5/Uuu.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/5/gallery/262A2184-thumbnail.JPG</image:loc>
-<image:title><![CDATA[YEs]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/5/gallery/Zyrus-thumbnail.png</image:loc>
-<image:title><![CDATA[Yes]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/5/gallery/4c5f2ccb67444938bf09070907f8955f-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Yes]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://justincarlmonterey-cell.github.io/Test1/testing-number-one/ygdnfog/</loc>
-</url>
-<url>
-<loc>https://justincarlmonterey-cell.github.io/Test1/yes/</loc>
-<lastmod>2026-05-03T04:33:54+08:00</lastmod>
-<image:image>
-<image:loc>https://justincarlmonterey-cell.github.io/Test1/media/posts/3/61f6ecac31997360bddee535abecf4a1.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
+<loc>https://justincarlmonterey-cell.github.io/Portfolio/</loc>
 </url>
 </urlset>
