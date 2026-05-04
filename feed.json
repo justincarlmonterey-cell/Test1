@@ -38,21 +38,7 @@
                    "GRAPHIC DESIGN"
             ],
             "date_published": "2026-05-03T15:14:13+08:00",
-            "date_modified": "2026-05-03T15:14:13+08:00"
-        },
-        {
-            "id": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/",
-            "url": "https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/",
-            "title": "RIZAL TRAVELS FLAG (Persona 5 Parody)",
-            "summary": "[{\"id\":\"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8\",\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":\"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8\",\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "Gusher"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-05-03T15:14:06+08:00",
-            "date_modified": "2026-05-03T15:14:06+08:00"
+            "date_modified": "2026-05-04T09:52:17+08:00"
         },
         {
             "id": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic-2/",
@@ -112,7 +98,7 @@
                    "3D PROJECTS"
             ],
             "date_published": "2026-05-03T14:56:20+08:00",
-            "date_modified": "2026-05-03T14:56:20+08:00"
+            "date_modified": "2026-05-04T09:51:03+08:00"
         },
         {
             "id": "https://justincarlmonterey-cell.github.io/Portfolio/punpun/",
@@ -127,7 +113,7 @@
                    "3D PROJECTS"
             ],
             "date_published": "2026-05-03T14:47:27+08:00",
-            "date_modified": "2026-05-03T14:47:27+08:00"
+            "date_modified": "2026-05-04T09:50:34+08:00"
         },
         {
             "id": "https://justincarlmonterey-cell.github.io/Portfolio/dolphin-mosaic/",
@@ -157,6 +143,21 @@
             ],
             "date_published": "2026-05-03T14:44:55+08:00",
             "date_modified": "2026-05-03T14:45:08+08:00"
+        },
+        {
+            "id": "https://justincarlmonterey-cell.github.io/Portfolio/jeepney-poster-2/",
+            "url": "https://justincarlmonterey-cell.github.io/Portfolio/jeepney-poster-2/",
+            "title": "JEEPNEY POSTER",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://justincarlmonterey-cell.github.io/Portfolio/media/posts/36/Monterey_TypographyPoster.png",
+            "author": {
+                "name": "Gusher"
+            },
+            "tags": [
+                   "GRAPHIC DESIGN"
+            ],
+            "date_published": "2026-05-03T14:17:07+08:00",
+            "date_modified": "2026-05-03T14:17:07+08:00"
         }
     ]
 }

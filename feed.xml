@@ -55,26 +55,6 @@
         </content>
     </entry>
     <entry>
-        <title>RIZAL TRAVELS FLAG (Persona 5 Parody)</title>
-        <author>
-            <name>Gusher</name>
-        </author>
-        <link href="https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/"/>
-        <id>https://justincarlmonterey-cell.github.io/Portfolio/rizal-travels-flag-persona-5-parody/</id>
-
-        <updated>2026-05-03T15:14:06+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    [{"id":"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8","type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                [{"id":"860b88c6-e53a-4a61-b3bf-8a93d6b8fde8","type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>DOLPHIN MOSAIC (Experimental)</title>
         <author>
             <name>Gusher</name>
@@ -235,6 +215,28 @@
       <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-VERS-1.png" height="4531" width="10386" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-lg.webp 1024w">
       
     </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>JEEPNEY POSTER</title>
+        <author>
+            <name>Gusher</name>
+        </author>
+        <link href="https://justincarlmonterey-cell.github.io/Portfolio/jeepney-poster-2/"/>
+        <id>https://justincarlmonterey-cell.github.io/Portfolio/jeepney-poster-2/</id>
+        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/36/Monterey_TypographyPoster.png" medium="image" />
+            <category term="GRAPHIC DESIGN"/>
+
+        <updated>2026-05-03T14:17:07+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/36/Monterey_TypographyPoster.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
